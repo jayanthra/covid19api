@@ -1,2 +1,2 @@
 # covid19api
-API for details regarding corona virus
+Upto date details regarding the corona virus, location and case count
